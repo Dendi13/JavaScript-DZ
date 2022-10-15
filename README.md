@@ -1,1 +1,2 @@
-# JavaScript-DZ
+# JavaScript-DZ <br>
+Клех Герман
